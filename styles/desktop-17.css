@@ -1,0 +1,4003 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-17-qZT {
+  width: 100%;
+  height: 1317.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #0a0b10;
+}
+.desktop-17-qZT .asteroid-7-2GZ {
+  width: 15.9rem;
+  height: 15.9rem;
+  position: absolute;
+  left: 81.6rem;
+  top: 37.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-17-qZT .rectangle-31-L2M {
+  width: 144rem;
+  height: 1408.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1a1b23;
+}
+.desktop-17-qZT .ellipse-2-sHB {
+  width: 60.2336rem;
+  height: 70.1rem;
+  position: absolute;
+  left: 81.1rem;
+  top: 5.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-3-oRj {
+  width: 36.1859rem;
+  height: 69.8rem;
+  position: absolute;
+  left: 0.9142rem;
+  top: 102.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-4-Key {
+  width: 16.702rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 1.798rem;
+  top: 186.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-5-35B {
+  width: 18.3641rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 0.1359rem;
+  top: 260rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-11-yDj {
+  width: 43.3739rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 97.3rem;
+  top: 351.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-12-tbb {
+  width: 56.8rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 473.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-13-RrR {
+  width: 54.8rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 563.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-14-xrM {
+  width: 94.2rem;
+  height: 94.2rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 718.7rem;
+  filter: blur(10.7rem);
+  background-color: rgba(6, 37, 81, 0.5);
+  border-radius: 47.1rem;
+}
+.desktop-17-qZT .rectangle-42-siR {
+  width: 25.1rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 692.8566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(271.38deg, rgba(17, 76, 255, 0.5699999928) 90.8%, rgba(35, 35, 44, 0.5699999928) 253.93%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .home-page-kGR {
+  width: 12.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 695.0566rem;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-43-wLu {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 665.0566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-165-DJR {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 655.8566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .volunteer-page-ePj {
+  width: 15.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 46.5rem;
+  top: 666.4566rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-166-ieV {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 647.0566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .volunteer-with-us-zc1 {
+  width: 18.7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 648.4566rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .volunteer-crews-Jch {
+  width: 14.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 83.5rem;
+  top: 656.4566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-48-Qvd {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 659.1566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .register-to-support-existing-crews-WCy {
+  width: 26.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 109.8rem;
+  top: 659.8566rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0352rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-49-oSy {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 666.0566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .volunteer-history-Vqb {
+  width: 14.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 115.5rem;
+  top: 666.6566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-50-13F {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 662.7566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .register-to-be-a-super-crew-leader-J2M {
+  width: 26.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 77.4rem;
+  top: 663.3566rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0352rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-52-zQy {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 669.6566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .register-for-sssp-fGD {
+  width: 14.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 670.2566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-53-xm7 {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 676.8566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .what-we-do-3nZ {
+  width: 10.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 85.4rem;
+  top: 677.4566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-54-xed {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 680.1566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .veterans-rk1 {
+  width: 7.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 119.1rem;
+  top: 680.7566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-55-AEu {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 687.0566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .events-evm {
+  width: 5.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 120.05rem;
+  top: 687.6566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-56-Znq {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 683.7566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .community-revitalization-rmw {
+  width: 21.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 79.75rem;
+  top: 684.3566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-58-Myb {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 690.6566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .roof-restoration-4ND {
+  width: 14.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 83.55rem;
+  top: 691.2566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-67-kkq {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 702.6566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .our-mission-impact-3zq {
+  width: 17.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 113.95rem;
+  top: 703.2566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-68-jsf {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 699.3566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .our-board-staff-2bs {
+  width: 14.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 699.9566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-69-k25 {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 706.2566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .our-national-organization-qZK {
+  width: 21.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 79.75rem;
+  top: 706.8566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0396rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-60-kAV {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 712.4566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .corporate-partnerships-F7F {
+  width: 20rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 112.95rem;
+  top: 713.0566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0342rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-61-9iR {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 719.3566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .in-kind-gifts-qLM {
+  width: 10.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 117.5rem;
+  top: 719.9566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0342rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-62-weH {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 716.0566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .online-giving-2vd {
+  width: 11.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 84.95rem;
+  top: 716.6566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0342rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-64-LwK {
+  width: 29.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 722.9566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .other-ways-to-give-dvR {
+  width: 16.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 82.4rem;
+  top: 723.5566rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0342rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-44-XW1 {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 686.2566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .our-work-bEy {
+  width: 11.7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 48.6rem;
+  top: 687.6566rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-45-uFf {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 701.7566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .about-us-z2D {
+  width: 11rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 48.9rem;
+  top: 703.1566rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-46-u9B {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 718.6566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .ways-to-give-zAd {
+  width: 13.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 47.5rem;
+  top: 720.0566rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-167-7FF {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 737.6566rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .apply-for-aid-cC1 {
+  width: 14.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 47.25rem;
+  top: 739.0566rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .vector-5-XZs {
+  width: 8.2rem;
+  height: 7.55rem;
+  position: absolute;
+  left: 31.2rem;
+  top: 689.0566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-9-UED {
+  width: 6.1rem;
+  height: 10.05rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 678.8566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-11-QtZ {
+  width: 6.1rem;
+  height: 3.05rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 685.8566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-12-Yjs {
+  width: 38.4rem;
+  height: 6.75rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 682.1567rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-13-5jo {
+  width: 38.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 69.6rem;
+  top: 688.9566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-10-pSV {
+  width: 6.1rem;
+  height: 3.95rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 688.9066rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-15-xob {
+  width: 6.1rem;
+  height: 10.05rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 657.8566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-16-WKK {
+  width: 6.1rem;
+  height: 3.05rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 664.8566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-17-3a9 {
+  width: 38.4rem;
+  height: 6.75rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 661.1567rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-19-aa5 {
+  width: 38.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 69.6rem;
+  top: 667.9566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-20-7pu {
+  width: 6.1rem;
+  height: 3.95rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 667.9066rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-22-3iZ {
+  width: 6.1rem;
+  height: 3.05rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 718.2566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-23-ayP {
+  width: 38.4rem;
+  height: 6.75rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 714.5567rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-25-w3F {
+  width: 38.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 69.6rem;
+  top: 721.3566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-26-H77 {
+  width: 6.1rem;
+  height: 3.95rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 721.3066rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-27-RUD {
+  width: 6.1rem;
+  height: 3.05rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 701.2566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-28-a6D {
+  width: 38.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 69.6rem;
+  top: 704.3566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-29-K3o {
+  width: 6.1rem;
+  height: 3.95rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 704.3066rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-7-e65 {
+  width: 8.2rem;
+  height: 28.95rem;
+  position: absolute;
+  left: 31.2rem;
+  top: 667.6566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-44-PJZ {
+  width: 8.2rem;
+  height: 47.05rem;
+  position: absolute;
+  left: 31.2rem;
+  top: 649.5566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-6-LDo {
+  width: 8rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 31.3rem;
+  top: 696.5566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-8-H93 {
+  width: 8rem;
+  height: 24.8rem;
+  position: absolute;
+  left: 31.3rem;
+  top: 696.5566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-43-pPs {
+  width: 8rem;
+  height: 43.8rem;
+  position: absolute;
+  left: 31.3rem;
+  top: 696.5566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-15-ZcM {
+  width: 48.8041rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 4.2959rem;
+  top: 866.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-16-JZw {
+  width: 49.8rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 961.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-18-EyP {
+  width: 46.1275rem;
+  height: 63.8rem;
+  position: absolute;
+  left: 90.9rem;
+  top: 1077.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .ellipse-19-b3F {
+  width: 46.1275rem;
+  height: 47.2122rem;
+  position: absolute;
+  left: 94.7rem;
+  top: 1266.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .rebuidingtogethergov-8Yy {
+  width: 47.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 49.1rem;
+  text-align: center;
+  font-size: 4.1rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .case-study-SpZ {
+  width: 50.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 54.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  letter-spacing: 3.924rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .asteroid-9-AEm {
+  width: 11rem;
+  height: 22.1rem;
+  position: relative;
+  left: 132.6rem;
+  top: 84.8rem;
+  background-size: 208.182% 100.168%;
+  background-position: 0 -0.0186rem;
+  background-image: url('REPLACE_IMAGE:285b4a5793f52072a75e27c8961eae5b294da316');
+}
+.desktop-17-qZT .asteroid1-7-rtH {
+  width: 21.8903rem;
+  height: 22.5529rem;
+  position: absolute;
+  left: 121.7049rem;
+  top: 152.1235rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-17-qZT .group-1-nmw {
+  box-sizing: border-box;
+  padding: 3.5rem 17.35rem 6.8rem 6.75rem;
+  width: 144rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, #000000 15.96%, rgba(0, 0, 0, 0) 100%);
+}
+.desktop-17-qZT .group-1-nmw .firas-g6d {
+  margin-right: 39.55rem;
+  text-align: center;
+  font-size: 3.1rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-1-nmw .home-Q2d {
+  margin: 1.3rem 10.6rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-1-nmw .projects-K9b {
+  margin: 1.3rem 10.35rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-1-nmw .skills-qNq {
+  margin: 1.3rem 8.65rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-1-nmw .about-kkh {
+  margin: 1.3rem 10.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-1-nmw .contact-t6D {
+  margin-top: 1.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .mockupblack-1-azd {
+  width: 106.5rem;
+  height: 57rem;
+  position: relative;
+  left: 37.1rem;
+  top: 24.7rem;
+  background-size: 122.817% 100.068%;
+  background-position: 0 -0.0194rem;
+  background-image: url('REPLACE_IMAGE:fd7998ef7f448a2a76503244e0a894771ca0e790');
+}
+.desktop-17-qZT .mockupblack-4-6CH {
+  width: 91.4rem;
+  height: 57rem;
+  position: relative;
+  left: 0;
+  top: 106.1rem;
+  background-size: 143.107% 100.068%;
+  background-position: -39.4rem -0.0194rem;
+  background-image: url('REPLACE_IMAGE:fd7998ef7f448a2a76503244e0a894771ca0e790');
+}
+.desktop-17-qZT .about-the-project-zYZ {
+  width: 24.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 74rem;
+  top: 101.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .process-u9j {
+  width: 11.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 190.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .empathy-map-cpq {
+  width: 19rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 336.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .for-my-rice-ux-ui-boot-camp-project-on-rebuildingtogethercom-i-tested-the-website-with-users-to-find-and-fix-any-issues-after-identifying-challenges-i-got-inspiration-from-other-sites-to-improve-the-user-experience-i-simplified-the-sites-structure-through-wireframing-for-a-cleaner-look-the-process-included-creating-prototypes-and-doing-more-testing-for-refinement-in-the-end-i-summed-it-up-in-a-short-case-study-showing-the-changes-made-to-enhance-the-user-experience-on-energygov-juT {
+  width: 64.7rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 74rem;
+  top: 108.3rem;
+  font-size: 2.1rem;
+  font-weight: 300;
+  line-height: 1.619047619;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .i-conducted-FWR {
+  width: 13.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 73.1rem;
+  top: 153.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-6-Lnm {
+  width: 3.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 73.4rem;
+  top: 157.2rem;
+  font-size: 6.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-01-Feq {
+  width: 4.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 193.7rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-12-Mxm {
+  width: 6.7rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 86.2rem;
+  top: 157.2rem;
+  font-size: 6.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .interviews-UXb {
+  width: 7.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 73.1rem;
+  top: 166rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .interviews-o45 {
+  width: 10.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 73.4rem;
+  top: 194.2rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .user-testing-for-the-original-website-7Kf {
+  width: 12.2rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 192.1rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .item-02-pUy {
+  width: 4.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 204.3rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .analyze-the-results-LiD {
+  width: 20.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 67.95rem;
+  top: 204.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .calculate-the-time-users-need-to-finish-the-task-3sX {
+  width: 15.8rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 202.7rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .surveys-k1F {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 87.4rem;
+  top: 166rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-6-Fih {
+  width: 3.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 102.6rem;
+  top: 157.2rem;
+  font-size: 6.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .user-testing-hah {
+  width: 9rem;
+  height: 2rem;
+  position: absolute;
+  left: 102rem;
+  top: 166rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-32-chf {
+  width: 89.7rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 200.6rem;
+  box-shadow: 0 0.4rem 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(270deg, rgba(217, 217, 217, 0) 101.06%, #d9d9d9 150.53%, rgba(217, 217, 217, 0) 200%);
+}
+.desktop-17-qZT .rectangle-33-JaV {
+  width: 89.7rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 211.1rem;
+  box-shadow: 0 0.4rem 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(270deg, rgba(217, 217, 217, 0) 101.06%, #d9d9d9 150.53%, rgba(217, 217, 217, 0) 200%);
+}
+.desktop-17-qZT .item-03-CQy {
+  width: 4.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 214.8rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .low-fidelity-prototype-v65 {
+  width: 22.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 215.3rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .new-navigation-bar-and-new-structure-for-the-home-page-RoX {
+  width: 16.7rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 213.2rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-34-L9o {
+  width: 89.7rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 221.6rem;
+  box-shadow: 0 0.4rem 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(270deg, rgba(217, 217, 217, 0) 101.06%, #d9d9d9 150.53%, rgba(217, 217, 217, 0) 200%);
+}
+.desktop-17-qZT .item-04-c7K {
+  width: 4.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 225.2rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .high-fidelity-prototype-XVB {
+  width: 23rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 225.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .new-home-page-more-clear-and-easy-to-use-SMF {
+  width: 13.8rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 223.6rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-35-KR3 {
+  width: 89.7rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 232rem;
+  box-shadow: 0 0.4rem 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(270deg, rgba(217, 217, 217, 0) 101.06%, #d9d9d9 150.53%, rgba(217, 217, 217, 0) 200%);
+}
+.desktop-17-qZT .item-05-cQ9 {
+  width: 4.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 235.6rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .user-testing-L5F {
+  width: 12.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 71.7rem;
+  top: 236.1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .user-testing-for-the-new-website-and-calculate-the-time-FCD {
+  width: 19rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 234rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-36-Khs {
+  width: 89.7rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 242.4rem;
+  box-shadow: 0 0.4rem 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(270deg, rgba(217, 217, 217, 0) 101.06%, #d9d9d9 150.53%, rgba(217, 217, 217, 0) 200%);
+}
+.desktop-17-qZT .group-4-RF7 {
+  width: 65.2rem;
+  height: 29.6rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 259.7rem;
+  border-radius: 2rem;
+}
+.desktop-17-qZT .group-4-RF7 .user-test-for-original-website-9S1 {
+  margin-bottom: 9.3rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .group-4-RF7 .auto-group-zpxw-GmX {
+  box-sizing: border-box;
+  padding: 2.7rem 2.9rem 2rem 3.4rem;
+  width: 100%;
+  height: 16.9rem;
+  display: flex;
+  align-items: center;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 2rem;
+}
+.desktop-17-qZT .group-4-RF7 .auto-group-zpxw-GmX .auto-group-r8vx-bJ1 {
+  margin-right: 3.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-4-RF7 .auto-group-zpxw-GmX .auto-group-r8vx-bJ1 .profile-user64572-1-LWV {
+  margin-bottom: 0.9002rem;
+  width: 7.8rem;
+  height: 7.7997rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-4-RF7 .auto-group-zpxw-GmX .auto-group-r8vx-bJ1 .kevin-56-FtM {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.9444444444;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-4-RF7 .auto-group-zpxw-GmX .transparency-and-documentation-are-what-make-a-website-feel-trustworthy-for-me-i-would-like-to-see-how-the-organization-is-helping-the-community-z5F {
+  margin-bottom: 1.3001rem;
+  max-width: 47.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.9444444444;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-17-qZT .aa-NrV {
+  width: 33.7rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 876.1rem;
+  font-size: 24.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .thank-you-gsB {
+  width: 61.1rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 41.1rem;
+  top: 1277.1rem;
+  text-align: center;
+  font-size: 11.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .font-name-rufina-bold-ogu {
+  width: 53rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 81.5rem;
+  top: 895.9rem;
+  font-size: 4.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .font-name-rufina-bold-ogu .font-name-rufina-bold-ogu-sub-0 {
+}
+.desktop-17-qZT .font-name-rufina-bold-ogu .font-name-rufina-bold-ogu-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .low-fidelity-mobile-prototype-vQ9 {
+  width: 40.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 758.6rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .high-fidelity-mobile-prototype-2i5 {
+  width: 41.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 1164.9rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .design-and-font-style-Xuj {
+  width: 30rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 864.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .grid-rBK {
+  width: 6rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 968.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .high-fidelity-prototype-xEM {
+  width: 31.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 634.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .protopersona-Fz9 {
+  width: 19rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 475.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .shelby-todd-amX {
+  width: 12.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 487.9rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .occupation-VNh {
+  width: 8.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 487.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .age-D3o {
+  width: 3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 77.7rem;
+  top: 489.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .volunteers-XqB {
+  width: 8.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 118.8rem;
+  top: 487.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-32-eeu {
+  width: 2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 118.8rem;
+  top: 489.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-72-Nau {
+  width: 120rem;
+  height: 37.4rem;
+  position: absolute;
+  left: 12rem;
+  top: 485.6rem;
+  border: solid 0.2rem #a4a4a4;
+  box-sizing: border-box;
+}
+.desktop-17-qZT .rectangle-120-JUZ {
+  width: 120rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 12rem;
+  top: 492.6rem;
+  border: solid 0.2rem #a4a4a4;
+  box-sizing: border-box;
+}
+.desktop-17-qZT .rectangle-121-3S9 {
+  width: 0.3rem;
+  height: 29.8rem;
+  position: absolute;
+  left: 71.8rem;
+  top: 492.9rem;
+  border: solid 0.2rem #a4a4a4;
+  box-sizing: border-box;
+}
+.desktop-17-qZT .mask-group-n8q {
+  width: 117.6rem;
+  height: 53.2092rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 775.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .mockupblack-3-X6R {
+  width: 131.9rem;
+  height: 64.4rem;
+  position: relative;
+  left: 2.5rem;
+  top: 771.5046rem;
+  background-size: 112.055% 100.081%;
+  background-position: 0rem -0.026rem;
+  background-image: url('REPLACE_IMAGE:fd7998ef7f448a2a76503244e0a894771ca0e790');
+}
+.desktop-17-qZT .animationdonationprototype-1-p5X {
+  width: 83.4rem;
+  height: 53.6rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 776.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-17-qZT .mask-group-97o {
+  width: 117.6rem;
+  height: 53.2092rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 1183.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .mockupblack-5-Gy7 {
+  width: 147.8rem;
+  height: 64.4rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 1179.5046rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-17-qZT .animationfinallldonationprototype-1-Crm {
+  width: 83.3rem;
+  height: 53.7rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 1184rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-17-qZT .rectangle-77-Xu3 {
+  width: 31.2rem;
+  height: 31.1rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 910.2rem;
+  background-color: #ffffff;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-79-sT7 {
+  width: 31.2rem;
+  height: 31.1rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 910.2rem;
+  background-color: #ffffff;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-78-D1B {
+  width: 31.2rem;
+  height: 31.1rem;
+  position: absolute;
+  left: 39rem;
+  top: 910.2rem;
+  background-color: #ffffff;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-80-kWu {
+  width: 31.2rem;
+  height: 31.1rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 910.2rem;
+  background-color: #ffffff;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-81-HWq {
+  width: 31.2rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 913.9rem;
+  background-color: rgba(0, 0, 0, 0.5899999738);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-82-Cth {
+  width: 31.2rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 913.9rem;
+  background-color: rgba(133, 133, 133, 0.5899999738);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-83-w5b {
+  width: 31.2rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 39rem;
+  top: 913.9rem;
+  background-color: rgba(54, 54, 54, 0.5899999738);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-84-G7s {
+  width: 31.2rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 913.9rem;
+  background-color: rgba(209, 209, 209, 0.5899999738);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-85-nkR {
+  width: 31.2rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 918.4rem;
+  background-color: #000000;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-86-8JV {
+  width: 31.2rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 918.4rem;
+  background-color: #858585;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-87-4C9 {
+  width: 31.2rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 39rem;
+  top: 918.4rem;
+  background-color: #363636;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-88-ndw {
+  width: 31.2rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 918.4rem;
+  background-color: #d1d1d1;
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-000000-inV {
+  width: 17.2rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 933.2rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-363636-q6R {
+  width: 17.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 933.2rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-858585-M4m {
+  width: 16.4rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 81.2rem;
+  top: 933.2rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .item-858585-M4m .item-858585-M4m-sub-0 {
+}
+.desktop-17-qZT .item-858585-M4m .item-858585-M4m-sub-1 {
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .d1d1d1-7CM {
+  width: 16rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 116rem;
+  top: 933.2rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .d1d1d1-7CM .d1d1d1-7CM-sub-0 {
+}
+.desktop-17-qZT .d1d1d1-7CM .d1d1d1-7CM-sub-1 {
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .columns-stretch-f7P {
+  width: 16.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 1001.1rem;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .gutter-16-px-xsB {
+  width: 12.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 125.3rem;
+  top: 1021.1rem;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .mask-group-sz9 {
+  width: 115.8rem;
+  height: 103.2rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 981.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .rectangle-90-1qT {
+  width: 115.8rem;
+  height: 66.1rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 981.3rem;
+  box-sizing: border-box;
+  border-radius: 6rem;
+}
+.desktop-17-qZT .vector-40-M8d {
+  width: 82.25rem;
+  height: 0;
+  position: absolute;
+  left: 5.95rem;
+  top: 1004.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .margin-95-px-t8Z {
+  width: 13rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 1025.1rem;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .vector-41-Q6u {
+  width: 25.85rem;
+  height: 0;
+  position: absolute;
+  left: 5.75rem;
+  top: 1028.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .vector-42-YU1 {
+  width: 51.35rem;
+  height: 0;
+  position: absolute;
+  left: 85.65rem;
+  top: 1024.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .mask-group-tXs {
+  width: 72.6rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 29rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .mask-group-2PB {
+  width: 58rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 0;
+  top: 110.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .rectangle-38-ZP7 {
+  width: 65.2rem;
+  height: 16.9rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 272.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 2rem;
+}
+.desktop-17-qZT .rectangle-91-3JH {
+  width: 65.2rem;
+  height: 16.9rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 295.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 2rem;
+}
+.desktop-17-qZT .an-online-presence-is-important-for-an-organization-most-people-want-to-do-their-research-before-getting-involved-L2V {
+  width: 48.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 89.3rem;
+  top: 275.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.9444444444;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .my-motivation-for-visiting-a-nonprofits-website-would-be-to-see-how-i-could-help-nfB {
+  width: 48.5rem;
+  height: 7rem;
+  position: absolute;
+  left: 54.2rem;
+  top: 300.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.9444444444;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .taylor-24-sAq {
+  width: 8.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 77.9rem;
+  top: 283.8rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.9444444444;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .victoria-36-NtH {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 306.8rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.9444444444;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .profile-user64572-2-6ZP {
+  width: 7.8rem;
+  height: 7.7997rem;
+  position: absolute;
+  left: 77.9rem;
+  top: 275.1001rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .profile-user64572-3-E9o {
+  width: 7.8rem;
+  height: 7.7997rem;
+  position: absolute;
+  left: 42.8rem;
+  top: 298.1001rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .rectangle-47-ZSy {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 355.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-93-T2Z {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 364.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-92-iz5 {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 355.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-94-DR3 {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 364.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-95-Hvh {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 26.9rem;
+  top: 374.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .im-likely-to-volunteer-with-an-organization-if-they-are-visible-promote-themselves-through-different-networks-z4R {
+  width: 23rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 14.8rem;
+  top: 356.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .photos-of-the-work-being-done-as-well-as-staff-and-visual-representation-of-financial-goals-and-accomplishments-make-a-website-feel-trustworthy-R9j {
+  width: 23.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 366rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .my-primary-motivation-for-visiting-a-non-profits-website-is-to-research-and-learn-ways-to-get-involved-f45 {
+  width: 22rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 45rem;
+  top: 356.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .a-sense-of-security-comes-from-confirmation-of-how-the-transaction-has-made-a-difference-WaV {
+  width: 21.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 45rem;
+  top: 366.8rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-101-n2D {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 398.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-102-51K {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 407.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-103-MjX {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 398.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-104-eyX {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 407.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .eager-to-help-Z4u {
+  width: 6.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 22.55rem;
+  top: 401rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .nervous-about-donating-money-online-RN1 {
+  width: 18.2rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 410.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .passionate-about-helping-those-in-need-W8Z {
+  width: 18.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 47.05rem;
+  top: 400.9rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .interested-in-the-work-of-non-profit-organizations-BkV {
+  width: 22.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 45.05rem;
+  top: 409.8rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-105-55B {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 417.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-106-MYV {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 417.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .disappointed-when-people-are-taken-advantage-of-qTf {
+  width: 23.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 14rem;
+  top: 420.1rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .admiration-for-those-who-sacrifice-their-time-to-help-others-KNq {
+  width: 21.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 45.25rem;
+  top: 419.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-113-nnD {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 439.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-114-GhP {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 439.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .trustworthiness-of-organizations-AGy {
+  width: 15.6rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 18.1rem;
+  top: 442.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .trustworthiness-of-organizations-AGy .trustworthiness-of-organizations-AGy-sub-0 {
+}
+.desktop-17-qZT .trustworthiness-of-organizations-AGy .trustworthiness-of-organizations-AGy-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .trustworthiness-of-organizations-AGy .trustworthiness-of-organizations-AGy-sub-2 {
+}
+.desktop-17-qZT .environmentalist-local-volunteers-in-their-free-time-dedicated-to-helping-their-hometown-thrive-as-a-sustainable-city-inspired-by-the-selfless-acts-of-non-profit-organizations-tcH {
+  width: 32.1rem;
+  height: 8rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 498.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.desktop-17-qZT .behavioral-demographics-drive-vos {
+  width: 21.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 494.8rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2.6666666667;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .volunteer-with-non-profits-connect-with-organizations-that-are-exploring-constructive-ways-to-help-communities-in-need-seeking-proactive-ways-to-positively-impact-houstons-community-find-local-organizations-that-are-progressively-helping-the-community-collaborate-with-communities-focused-on-positive-change-in-houston-Rkd {
+  width: 46.5rem;
+  height: 22rem;
+  position: absolute;
+  left: 77.2rem;
+  top: 497.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 3.6666666667;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.desktop-17-qZT .goals-needs-R8M {
+  width: 9.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 77.2rem;
+  top: 494.8rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2.6666666667;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .stressful-organizing-large-groups-of-people-finding-reputable-organizations-to-donate-to-and-support-getting-people-on-board-with-a-cause-that-isnt-self-serving-or-immediately-beneficial-persuading-people-to-acknowledge-and-act-on-the-local-issues-at-hand-j93 {
+  width: 42.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 512.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.desktop-17-qZT .frustrations-pain-points-9Cm {
+  width: 17.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 508.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2.6666666667;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .security-of-online-transactions-SSm {
+  width: 14.5rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 49.2rem;
+  top: 441.8rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .security-of-online-transactions-SSm .security-of-online-transactions-SSm-sub-0 {
+}
+.desktop-17-qZT .security-of-online-transactions-SSm .security-of-online-transactions-SSm-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .security-of-online-transactions-SSm .security-of-online-transactions-SSm-sub-2 {
+}
+.desktop-17-qZT .rectangle-115-Zfo {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 449.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-116-qNR {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 449.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .tracking-where-funds-are-going-KoP {
+  width: 15.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 18.35rem;
+  top: 452.1rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .tracking-where-funds-are-going-KoP .tracking-where-funds-are-going-KoP-sub-0 {
+}
+.desktop-17-qZT .tracking-where-funds-are-going-KoP .tracking-where-funds-are-going-KoP-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .tracking-where-funds-are-going-KoP .tracking-where-funds-are-going-KoP-sub-2 {
+}
+.desktop-17-qZT .visibility-UZo {
+  width: 4.6rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 53.85rem;
+  top: 451.9rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .visibility-UZo .visibility-UZo-sub-0 {
+}
+.desktop-17-qZT .visibility-UZo .visibility-UZo-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .visibility-UZo .visibility-UZo-sub-2 {
+}
+.desktop-17-qZT .rectangle-107-Fys {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 398.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-108-xNV {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 407.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-109-eFK {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 398.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-110-YLh {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 407.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .google-searches-local-non-profits-EjK {
+  width: 16.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 401rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .looks-for-volunteer-events-on-social-media-XTX {
+  width: 20.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 80.65rem;
+  top: 410.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .visits-non-profit-websites-to-learn-about-causes-and-ways-they-can-be-of-service-cUy {
+  width: 22.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 110.25rem;
+  top: 400.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .contacts-non-profit-staff-to-learn-more-about-the-organization-V2y {
+  width: 23rem;
+  height: 3rem;
+  position: absolute;
+  left: 109.85rem;
+  top: 409.8rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .rectangle-111-a4R {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 417.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-112-fbf {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 108rem;
+  top: 417.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .reads-any-available-reviews-to-see-if-the-organization-has-a-good-reputation-9mj {
+  width: 18.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 81.2rem;
+  top: 419.4rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .supports-causes-they-believe-in-with-their-time-and-or-money-24q {
+  width: 21.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 110.15rem;
+  top: 419.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .helping-others-is-what-motivates-me-WEu {
+  width: 17.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 30.9rem;
+  top: 377.3rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .says-CdX {
+  width: 6.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 37.3rem;
+  top: 385.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0528rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .thinks-hqB {
+  width: 8.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 385.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0528rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .feels-26m {
+  width: 7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 36.85rem;
+  top: 391.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0528rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .does-XZK {
+  width: 6.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 102.05rem;
+  top: 391.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0528rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .pain-dcM {
+  width: 5.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 434.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0528rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .gain-YzD {
+  width: 5.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 102.4rem;
+  top: 434.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0528rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-96-5DT {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 76.9rem;
+  top: 355.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-97-BGV {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 76.9rem;
+  top: 364.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-98-UWV {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 107.1rem;
+  top: 355.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-99-N65 {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 107.1rem;
+  top: 364.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-100-4Do {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 90.9rem;
+  top: 374.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .how-could-they-be-helping-their-community-9W9 {
+  width: 20.7rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 358rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .how-do-they-know-if-an-organization-is-actually-helping-qNy {
+  width: 21.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 366.7rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .what-is-the-best-way-to-support-local-non-profits-ihf {
+  width: 23.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 358rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .where-can-they-find-local-events-to-volunteer-cY9 {
+  width: 21.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 367.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .is-it-safe-to-donate-money-online-WdX {
+  width: 15.5rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 96.1rem;
+  top: 377.3rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-117-DH3 {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 77.9rem;
+  top: 439.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-118-hi1 {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 108.1rem;
+  top: 439.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-119-Pqj {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 91.9rem;
+  top: 449.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-122-4BB {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 552rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-123-Yc9 {
+  width: 29.5rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 562.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .group-28-qLM {
+  width: 117.3rem;
+  height: 8.1122rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 604.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .rectangle-129-AdX {
+  width: 29.4rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 562.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-158-eob {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 56.5rem;
+  top: 607.7rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-4-ja9 {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 57.7rem;
+  top: 608.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-137-EWu {
+  width: 29.4rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 562.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-162-L49 {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 112.4rem;
+  top: 607.6rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-8-NFj {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.6rem;
+  top: 608.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-143-fVj {
+  width: 29.4rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 109.4rem;
+  top: 562.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-145-xUq {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 111rem;
+  top: 571.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-146-Ex9 {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 108.5rem;
+  top: 573.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-8-LEV {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 109.7rem;
+  top: 573.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-155-S2d {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 610.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-1-KMK {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 611.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-147-1zq {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 111rem;
+  top: 582.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-148-WAu {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 108.5rem;
+  top: 584.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-9-zLy {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 109.8rem;
+  top: 584.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-139-VYd {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 76.6rem;
+  top: 571.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-140-yyb {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 573.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-163-UQZ {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 128.1rem;
+  top: 608.9rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-6-kss {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 75.3rem;
+  top: 573.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-9-4Nm {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 129.3rem;
+  top: 609.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-141-ARo {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 76.6rem;
+  top: 582.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-142-eLy {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 584.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-7-jtD {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 75.3rem;
+  top: 584.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-131-FLm {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 571.7rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-132-Lt1 {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 39.7rem;
+  top: 573.6rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-159-31j {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 67.9rem;
+  top: 602.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-3-LFj {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 574.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-5-qTP {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 69.1rem;
+  top: 603.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-133-3JZ {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 582.6rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-164-XUd {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 582.6rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-134-1eh {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 39.7rem;
+  top: 584.5rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-160-Jth {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 84.6rem;
+  top: 610.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-4-bcu {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 585.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-6-u7o {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 85.8rem;
+  top: 611.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-135-Csb {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 593.5rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-136-6xy {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 39.7rem;
+  top: 595.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-161-beq {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 99.6rem;
+  top: 606.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-5-VkD {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 596.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-7-1Tf {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 100.8rem;
+  top: 606.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-125-7mb {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 571.4rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-126-RGV {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 573.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-156-JbB {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 22.7rem;
+  top: 608.8rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-1-o29 {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 573.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-2-6mw {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 609.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .rectangle-127-ogM {
+  width: 26rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 582.3rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-128-hFw {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 584.2rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .rectangle-157-aKj {
+  width: 3.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 42.4rem;
+  top: 610rem;
+  box-sizing: border-box;
+  backdrop-filter: blur(1.7rem);
+  background: linear-gradient(0.26deg, rgba(22, 28, 46, 0.5699999928) 99.78%, rgba(35, 35, 44, 0.5699999928) 220.85%);
+  border-radius: 4rem;
+}
+.desktop-17-qZT .item-2-Fwf {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 584.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .item-3-9XF {
+  width: 1.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.6rem;
+  top: 610.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .helping-others-eiu {
+  width: 7.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 87.2rem;
+  top: 442.7rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .helping-others-eiu .helping-others-eiu-sub-0 {
+}
+.desktop-17-qZT .helping-others-eiu .helping-others-eiu-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .helping-others-eiu .helping-others-eiu-sub-2 {
+}
+.desktop-17-qZT .positively-impacting-the-community-oVK {
+  width: 16.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 112.75rem;
+  top: 442.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-17-qZT .positively-impacting-the-community-oVK .positively-impacting-the-community-oVK-sub-0 {
+}
+.desktop-17-qZT .positively-impacting-the-community-oVK .positively-impacting-the-community-oVK-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .positively-impacting-the-community-oVK .positively-impacting-the-community-oVK-sub-2 {
+}
+.desktop-17-qZT .awareness-of-local-issues-and-accountability-hDK {
+  width: 13.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.95rem;
+  top: 451.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .awareness-of-local-issues-and-accountability-hDK .awareness-of-local-issues-and-accountability-hDK-sub-0 {
+}
+.desktop-17-qZT .awareness-of-local-issues-and-accountability-hDK .awareness-of-local-issues-and-accountability-hDK-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.022rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-17-qZT .awareness-of-local-issues-and-accountability-hDK .awareness-of-local-issues-and-accountability-hDK-sub-2 {
+}
+.desktop-17-qZT .group-7-Dqs {
+  width: 119.1rem;
+  height: 0rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 389.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-17-qZT .group-7-Dqs .vector-45-9Dj {
+  width: 119.1rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-7-Dqs .vector-46-gUZ {
+  width: 119.1rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-8-ct1 {
+  width: 119.1rem;
+  height: 0rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 432.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-17-qZT .group-8-ct1 .vector-45-9d3 {
+  width: 119.1rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .group-8-ct1 .vector-46-ucD {
+  width: 119.1rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-17-qZT .the-experience-Fg5 {
+  width: 23.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 552rem;
+}
+.desktop-17-qZT .the-experience-Fg5 .auto-group-jswx-Zwf {
+  margin-bottom: 1.6rem;
+  width: 0;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .the-experience-Fg5 .the-experience-JuF {
+  margin-left: 4.9rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .user-journey-dgd {
+  width: 18.6rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 539.7rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-17-qZT .laptop-website-screens-mockup-side-view-copy-1-Lb3 {
+  width: 136.8rem;
+  height: 91.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 1055rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-17-qZT .group-3kM {
+  box-sizing: border-box;
+  padding: 1.527rem 1.067rem 1.707rem 1.386rem;
+  width: 6.1594rem;
+  height: 6.0054rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 64.677rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-jF7.png');
+}
+.desktop-17-qZT .group-3kM .group-x6d {
+  width: 3.7061rem;
+  height: 2.7717rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .group-Uam {
+  width: 3.0793rem;
+  height: 4.6028rem;
+  position: absolute;
+  left: 25.2207rem;
+  top: 65.2783rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-17-qZT .illustrator9814096-D2Z {
+  width: 6.2rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 64.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
